@@ -1,0 +1,11 @@
+main.c:122:7:task1	6
+main.c:78:5:main	8
+main.c:142:7:task2	7
+main.c:163:7:task3	6
+main.c:213:6:SystemClock_Config	3
+main.c:264:13:MX_TIM2_Init	4
+main.c:309:13:MX_USART3_UART_Init	2
+main.c:344:13:MX_USB_OTG_FS_PCD_Init	2
+main.c:379:13:MX_GPIO_Init	1
+main.c:462:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:478:6:Error_Handler	1
